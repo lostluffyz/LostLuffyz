@@ -1,4 +1,7 @@
 ### Hi there 👋
+### I'm currently a School Student 🎓
+### I'm currently learning Linux 🐧
+### Fun fact: I'm 14 year old 😁
 
 <!--
 **DhruvJhaJet/DhruvJhaJet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
