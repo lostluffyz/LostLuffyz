@@ -1,7 +1,7 @@
 ### Hi there 👋
-### I'm currently a School Student 🎓
 ### I'm currently learning Java ☕
-### Fun fact: Nothing 😁
+
+### I love Penguins 🐧 :)
 
 <!--
 **DhruvJhaJet/DhruvJhaJet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
