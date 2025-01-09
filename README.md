@@ -1,6 +1,4 @@
 ### Hi there 👋
-### I'm currently learning Java ☕
-
 ### I love Penguins 🐧 :)
 
 <!--
