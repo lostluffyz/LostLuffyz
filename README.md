@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hi there 👋<br>I love Penguins 🐧 :)
+🖥️ "Why do developers never go broke?"
+"Because they always cache in. 💸💀"<br>I love Penguins 🐧 :)
 
 
 ## 🌐 Socials:
