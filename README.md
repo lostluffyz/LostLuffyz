@@ -1,6 +1,5 @@
 # 💫 About Me:
-🖥️ "Why do developers never go broke?"
-"Because they always cache in. 💸💀"<br>I love Penguins 🐧 :)
+Smooth Operator ✨
 
 
 ## 🌐 Socials:
